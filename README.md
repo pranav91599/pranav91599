@@ -1,16 +1,41 @@
-## Hi there 👋
+👋 Intro Section
+   └── Hi, I'm Your Name
 
-<!--
-**pranav91599/pranav91599** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+⌨️ Typing Animation Banner
+   └── Full Stack Developer | IoT Enthusiast | Open Source Learner
 
-Here are some ideas to get you started:
+👨‍💻 About Me
+   └── Short introduction + interests + goals
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔗 Portfolio + LinkedIn
+   └── Portfolio button
+   └── LinkedIn badge
+   └── GitHub profile links
+
+🛠️ Tech Stack
+   └── HTML • CSS • JavaScript
+   └── React • Node.js • Python
+   └── Java / C / etc.
+
+🚀 Current Projects
+   └── Project 1
+   └── Project 2
+   └── Project 3
+
+📊 GitHub Stats
+   └── Total contributions
+   └── Repositories
+   └── Most-used languages
+
+🔧 Tools
+   └── VS Code
+   └── Git
+   └── GitHub
+   └── Android Studio
+   └── Figma, etc.
+
+📈 Contribution Graph
+   └── GitHub contribution activity
+
+👀 Visitor Badge
+   └── Profile visitor counter
