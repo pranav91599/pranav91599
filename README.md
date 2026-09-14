@@ -1,153 +1,110 @@
-# 👋 Hi, I'm Pranav K
+<div align="center">
 
-### Full Stack Developer | Data Analyst | Prompt Engineer
+<!-- Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=PRANAV%20K&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Data+Analyst;Prompt+Engineer;AI+%26+Data+Science+Enthusiast" alt="Typing Animation" />
+<!-- Typing Animation -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;Data+Analyst;Prompt+Engineer;AI+%26+Data+Science+Enthusiast;Building+Smart+Solutions+with+AI"/>
 
-📍 Tiruchengode, Tamil Nadu
-🎓 B.Tech Artificial Intelligence and Data Science (2023–2027)
+<br><br>
+
+<!-- Social Buttons -->
+<a href="https://github.com/pranav91599">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/pranav-k-771a982a3">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:saipranav638@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=pranav91599&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge"/>
+
+</div>
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm a passionate **Full Stack Developer, Data Analyst, and Prompt Engineer** interested in building practical software solutions, AI-powered applications, and analytics platforms.
+<img align="right" width="300" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme/master/images/dev-working_rounded.gif"/>
 
-I have experience working with **React.js, Python, SQL, Power BI, Flask, Node.js, Express.js, REST APIs, and Prompt Engineering**.
+👋 Hi, I'm **Pranav K**
 
-Currently, I'm pursuing my B.Tech in **Artificial Intelligence and Data Science** at Sengunthar Engineering College.
+🚀 Passionate **Full Stack Developer**  
+📊 **Data Analyst**  
+🤖 **Prompt Engineer**  
+🧠 B.Tech Artificial Intelligence & Data Science Student
 
----
+- 🔭 Currently working on AI & Full Stack projects
+- 🌱 Learning advanced AI, Data Analytics & Web Development
+- 💡 Interested in real-world technology solutions
+- ⚡ Love turning ideas into practical applications
+- 🎯 Focused on continuous learning and problem solving
 
-## 🔗 Connect With Me
-
-[![GitHub](https://img.shields.io/badge/GitHub-Pranav91599-181717?style=for-the-badge\&logo=github)](https://github.com/pranav91599)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pranav%20K-0A66C2?style=for-the-badge\&logo=linkedin)](https://linkedin.com/in/pranav-k-771a982a3)
-
-📧 **Email:** [saipranav638@gmail.com](mailto:saipranav638@gmail.com)
+<br clear="right"/>
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Frontend
+<div align="center">
 
-![React](https://img.shields.io/badge/React.js-20232A?style=for-the-badge\&logo=react)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3)
+<img src="https://skillicons.dev/icons?i=react,html,css,js,python,nodejs,express,flask,mysql,git,github,vscode,vite&perline=7"/>
 
-### ⚙️ Backend
+<br><br>
 
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express)
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Prompt%20Engineering-8A2BE2?style=for-the-badge&logo=openai&logoColor=white"/>
 
-### 🐍 Programming & Database
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=database)
-
-### 📊 Data & AI
-
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge\&logo=powerbi)
-![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-AI-blue?style=for-the-badge)
+</div>
 
 ---
 
-## 🚀 Current Projects
+## 🚀 Featured Projects
 
-### 🛡️ Crime Analysis Management Dashboard – Project SAFE
+### 🛡️ Project SAFE — Crime Analysis Management Dashboard
 
-AI-integrated dashboard providing real-time crime insights for **pattern recognition, resource allocation, and strategic planning**.
+> AI-integrated dashboard providing real-time crime insights for pattern recognition, resource allocation and strategic planning.
 
-🏆 Recognized by **Tamil Nadu Police – Namakkal District** with a Certificate of Appreciation.
+🏆 **Recognized by Tamil Nadu Police – Namakkal District**
+
+---
 
 ### 🏠 Hostel Complaint System
 
-A full-stack hostel complaint management web application built using:
+Full-stack hostel complaint management application.
 
-`React.js` • `Node.js` • `Express.js`
+**Tech:** `React.js` `Node.js` `Express.js`
+
+---
 
 ### 🪞 AI Smart Mirror
 
-AI-powered Smart Mirror for **emotion detection and health analytics** using:
+AI-powered Smart Mirror for emotion detection and health analytics.
 
-`Python` • `OpenCV` • `DeepFace` • `React`
+**Tech:** `Python` `OpenCV` `DeepFace` `React`
+
+---
 
 ### 🍗 Protein Calculator Application
 
-A personalized protein calculator with **meal planning and workout suggestions**.
+Personalized protein calculator with meal planning and workout suggestions.
 
 ---
 
-## 📊 GitHub Stats
+## 💻 What I Work With
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=pranav91599&show_icons=true&theme=tokyonight&hide_border=true" alt="Pranav's GitHub Stats" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranav91599&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-
-</div>
-
-
----
-
-## 🔧 Tools & Technologies
-
-* 🐙 GitHub
-* 📊 Power BI
-* ⚡ Vite
-* 🔌 REST API
-* 💻 VS Code
-* 🧠 Prompt Engineering
-* 🌐 Web Development
-* 📱 App Development
-* 📈 Data Analytics
-
----
-
-## 📈 GitHub Contribution Graph
-
-<div align="center">
-
-[![Pranav's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pranav91599\&theme=tokyo-night\&hide_border=true)](https://github.com/pranav91599)
-
-</div>
-
----
-
-## 👀 Profile Visitors
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=pranav91599\&label=Profile%20Views\&color=0e75b6\&style=for-the-badge)
-
-</div>
-
----
-
-## 🏆 Certifications & Achievements
-
-* 🏅 Certificate of Appreciation – Tamil Nadu Police, Namakkal District
-* 📊 Google Data Analytics Professional Certificate – Coursera / Google (2026)
-* ☁️ NPTEL Elite Certification – Cloud Computing, IIT Kharagpur – 61%
-* 💻 Electrical '26 – 24-hour Hackathon, M. Kumarasamy College of Engineering
-* 🐍 Python Programming
-* 📊 Power BI / Data Analytics
-
----
-
-## 🎓 Education
-
-**Sengunthar Engineering College (Autonomous)**
-B.Tech – Artificial Intelligence and Data Science
-2023 – 2027
-
-**Mahendra Matriculation Higher Secondary School**
-Higher Secondary Education – 83%
-
----
-
-### 💡 "Building ideas into intelligent solutions."
+```text
+Frontend       → React.js • HTML • CSS
+Backend        → Flask • Node.js • Express.js
+Programming    → Python
+Database       → SQL
+Data Analytics → Power BI
+Tools          → GitHub • Vite • REST API
+AI             → Prompt Engineering • Computer Vision
